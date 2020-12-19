@@ -1,0 +1,8 @@
+{
+  "name": "notion-server",
+  "description": "Heroku hosted application that performs collection and block Notion actions.",
+  "repository": "https://github.com/kevinjalbert/notion-toolbox/tree/master",
+  "keywords": [
+    "notion"
+  ]
+}
